@@ -9,3 +9,7 @@ https://nodejs.org/en/download/
 ```
 npm install
 ```
+## الاصول syntax
+Function => فعل
+Object => شيء
+var/let/const => اسم
