@@ -11,10 +11,15 @@
 npm install
 ```
 
-
 ### الاصول syntax
 * Function => فعل
 * Object => شيء
 * var/let/const => اسم
 
 ### امثلة
+
+تعريف الفعل
+```javascript
+فعل ابني-زر-الحفظ(اسم,فعل){
+
+```
