@@ -29,7 +29,7 @@ npm install
 
 ```
 
-#### Objects تعريف الشي
+#### objects تعريف الشي
 ```javascript
 
 ```
