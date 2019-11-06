@@ -13,18 +13,23 @@ npm install
 
 ### الاصول syntax
 * Function => فعل
-* Object => شيء
-* var/let/const => اسم
+* Object => شي
+* var/let/const => عرف
 
 ### امثلة
 
-#### تعريف الفعل
+#### functions تعريف الفعل
 ```javascript
 فعل ابني-زر-الحفظ(اسم,فعل)
 
 ```
 
-#### تعريف الاسم
+#### variables تعريف الاسم
+```javascript
+
+```
+
+#### Objects تعريف الشي
 ```javascript
 
 ```
