@@ -15,7 +15,8 @@ npm install
 * Function => فعل
 * Object => شي
 * var/let/const => عرف
-
+* import => استخدم 
+* export => انشر
 ### امثلة
 
 #### functions تعريف الفعل
@@ -24,13 +25,15 @@ npm install
 
 ```
 
-#### variables تعريف الاسم
+#### variables  تعريف المتغير
 ```javascript
 
 ```
 
 #### objects تعريف الشي
 ```javascript
-
+{عرف المستخدم = {الاسم:اسامة
 ```
+
+#### 
 
