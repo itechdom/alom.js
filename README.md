@@ -14,6 +14,7 @@ npm install
 ### الاصول syntax
 * Function => فعل
 * Object => شي
+* Array => سلسله
 * var/let/const => عرف
 * import => استخدم 
 * export => انشر
@@ -35,5 +36,7 @@ npm install
 ```javascript
 {"عرف المستخدم = {الاسم:"اسامة
 ```
+
+## Standard Library المكتبة الرئيسية
 
 ## مثال كامل
