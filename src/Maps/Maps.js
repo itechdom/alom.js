@@ -53,7 +53,6 @@ const ModelList = ({
       elevation={2}
     >
       <GoogleMapReact
-        bootstrapURLKeys={{ key: "AIzaSyDBMdHRkDHz3ARxGAxRs4ZkPRTxsiS-9fw" }}
         defaultCenter={position}
         defaultZoom={8}
       >
