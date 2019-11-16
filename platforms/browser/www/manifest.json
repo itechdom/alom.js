@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Worth Manifesto",
+  "short_name": "Worth Manifesto",
+  "version": "worth-manifesto",
+  "description": "Worth Manifesto is on a mission to acknowledge the humanity of marginalized women, and you can help!",
+  "author": "Sam Alghanmi",
+  "icons": [],
+  "start_url": "index.html"
+}
