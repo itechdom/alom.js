@@ -13,19 +13,30 @@ npm install
 
 ### الاصول syntax
 * Function => فعل
-* Object => شيء
-* var/let/const => اسم
-
+* Object => شي
+* Array => سلسله
+* var/let/const => عرف
+* import => استخدم 
+* export => انشر
 ### امثلة
 
-#### تعريف الفعل
+#### functions تعريف الفعل
 ```javascript
-فعل ابني-زر-الحفظ(اسم,فعل)
+}(فعل ابني-زر-الحفظ (اسم,فعل
 
+{
 ```
 
-#### تعريف الاسم
+#### variables  تعريف المتغير
 ```javascript
-
+"عرف اسمي = "أسامة الغانمي
 ```
 
+#### objects تعريف الشي
+```javascript
+{"عرف المستخدم = {الاسم:"اسامة
+```
+
+## Standard Library المكتبة الرئيسية
+
+## مثال كامل
