@@ -28,7 +28,7 @@
   "dependencies": {
     "@markab.io/node": "^4.2.0",
     "@markab.io/orbital-api": "^0.1.0",
-    "apollo-server-express": "^2.1.0",
+    "apollo-server-express": "^2.14.2",
     "aws-sdk": "^2.403.0",
     "bcrypt": "^3.0.1",
     "config": "^1.25.1",
